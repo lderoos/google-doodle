@@ -1,0 +1,11 @@
+/* Doodle Stage */
+#stage {
+  height: 400px;
+  width: 700px;
+}
+
+svg {
+  margin-top: 20px;
+  height: 400px;
+  width: 700px;
+}
